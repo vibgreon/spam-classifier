@@ -16,6 +16,14 @@ Data were cleaned, manipulated, and prepared for model training. NLP bag of word
 While it can be used in all kinds of different ways, its primary intention is to test and prepare a model then integrate it into flask application.
 
 Find deployed link in **About** of this repository.
+Dependencies for deployment:
+- Flask
+- pandas
+- NumPy
+- requests
+- pickle4
+- gunicorn
+- Scikit-learn
 
 ## Deployed
 
